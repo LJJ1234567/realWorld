@@ -1,0 +1,43 @@
+[
+  {
+    "path": "/",
+    "component": "D:\\\\LJJ\\\\前端\\\\拉勾大前端\\\\Part-3\\\\Module-3\\\\Task-1-Vuex\\\\realworld-nuxtjs\\\\pages\\\\layout",
+    "children": [
+      {
+        "path": "",
+        "name": "home",
+        "component": "D:\\\\LJJ\\\\前端\\\\拉勾大前端\\\\Part-3\\\\Module-3\\\\Task-1-Vuex\\\\realworld-nuxtjs\\\\pages\\\\home"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "D:\\\\LJJ\\\\前端\\\\拉勾大前端\\\\Part-3\\\\Module-3\\\\Task-1-Vuex\\\\realworld-nuxtjs\\\\pages\\\\login"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "D:\\\\LJJ\\\\前端\\\\拉勾大前端\\\\Part-3\\\\Module-3\\\\Task-1-Vuex\\\\realworld-nuxtjs\\\\pages\\\\login"
+      },
+      {
+        "path": "/profile/:username",
+        "name": "profile",
+        "component": "D:\\\\LJJ\\\\前端\\\\拉勾大前端\\\\Part-3\\\\Module-3\\\\Task-1-Vuex\\\\realworld-nuxtjs\\\\pages\\\\profile"
+      },
+      {
+        "path": "/settings",
+        "name": "settings",
+        "component": "D:\\\\LJJ\\\\前端\\\\拉勾大前端\\\\Part-3\\\\Module-3\\\\Task-1-Vuex\\\\realworld-nuxtjs\\\\pages\\\\settings"
+      },
+      {
+        "path": "/editor",
+        "name": "editor",
+        "component": "D:\\\\LJJ\\\\前端\\\\拉勾大前端\\\\Part-3\\\\Module-3\\\\Task-1-Vuex\\\\realworld-nuxtjs\\\\pages\\\\editor"
+      },
+      {
+        "path": "/article/:slug",
+        "name": "article",
+        "component": "D:\\\\LJJ\\\\前端\\\\拉勾大前端\\\\Part-3\\\\Module-3\\\\Task-1-Vuex\\\\realworld-nuxtjs\\\\pages\\\\article"
+      }
+    ]
+  }
+]
